@@ -1,0 +1,451 @@
+  antlr.AlternativeBlock, antlr.AlternativeBlock.removeTrackingOfRuleRefs/r3, antlr.AlternativeBlock.removeTrackingOfRuleRefs/$r18
+  antlr.AlternativeBlock, antlr.CppCodeGenerator.genBlockPreamble/r3, antlr.CppCodeGenerator.genBlockPreamble/$r11
+  antlr.AlternativeBlock, antlr.CppCodeGenerator.genBlockPreamble/r3, antlr.CppCodeGenerator.genBlockPreamble/$r9
+  antlr.AlternativeBlock, antlr.CSharpCodeGenerator.genBlockPreamble/r3, antlr.CSharpCodeGenerator.genBlockPreamble/$r11
+  antlr.AlternativeBlock, antlr.CSharpCodeGenerator.genBlockPreamble/r3, antlr.CSharpCodeGenerator.genBlockPreamble/$r9
+  antlr.AlternativeBlock, antlr.HTMLCodeGenerator.genGenericBlock/$r6, antlr.HTMLCodeGenerator.genGenericBlock/$r7
+  antlr.AlternativeBlock, antlr.JavaCodeGenerator.genBlockPreamble/r3, antlr.JavaCodeGenerator.genBlockPreamble/$r11
+  antlr.AlternativeBlock, antlr.JavaCodeGenerator.genBlockPreamble/r3, antlr.JavaCodeGenerator.genBlockPreamble/$r9
+  antlr.CodeGenerator, antlr.Tool.doEverything/$r27, antlr.Tool.doEverything/r12
+  antlr.GrammarAtom, antlr.CppCodeGenerator.genBlockPreamble/r3, antlr.CppCodeGenerator.genBlockPreamble/r4
+  antlr.GrammarAtom, antlr.CppCodeGenerator.genBlockPreamble/r3, antlr.CppCodeGenerator.genBlockPreamble/$r59
+  antlr.GrammarAtom, antlr.CppCodeGenerator.genElementAST/r1, antlr.CppCodeGenerator.genElementAST/$r111
+  antlr.GrammarAtom, antlr.CppCodeGenerator.genElementAST/r1, antlr.CppCodeGenerator.genElementAST/r6
+  antlr.GrammarAtom, antlr.CppCodeGenerator.genElementAST/r1, antlr.CppCodeGenerator.genElementAST/$r60
+  antlr.GrammarAtom, antlr.CppCodeGenerator.genElementAST/r1, antlr.CppCodeGenerator.genElementAST/$r77
+  antlr.GrammarAtom, antlr.CppCodeGenerator.genElementAST/r1, antlr.CppCodeGenerator.genElementAST/$r96
+  antlr.GrammarAtom, <antlr.CppCodeGenerator: void genASTDeclaration(antlr.AlternativeElement,java.lang.String,java.lang.String)>/r1, <antlr.CppCodeGenerator: void genASTDeclaration(antlr.AlternativeElement,java.lang.String,java.lang.String)>/$r10
+  antlr.GrammarAtom, <antlr.CppCodeGenerator: void genASTDeclaration(antlr.AlternativeElement,java.lang.String,java.lang.String)>/r1, <antlr.CppCodeGenerator: void genASTDeclaration(antlr.AlternativeElement,java.lang.String,java.lang.String)>/$r6
+  antlr.GrammarAtom, antlr.CSharpCodeGenerator.genBlockPreamble/r3, antlr.CSharpCodeGenerator.genBlockPreamble/r4
+  antlr.GrammarAtom, antlr.CSharpCodeGenerator.genBlockPreamble/r3, antlr.CSharpCodeGenerator.genBlockPreamble/$r57
+  antlr.GrammarAtom, antlr.CSharpCodeGenerator.genElementAST/r1, antlr.CSharpCodeGenerator.genElementAST/$r100
+  antlr.GrammarAtom, antlr.CSharpCodeGenerator.genElementAST/r1, antlr.CSharpCodeGenerator.genElementAST/$r52
+  antlr.GrammarAtom, antlr.CSharpCodeGenerator.genElementAST/r1, antlr.CSharpCodeGenerator.genElementAST/r6
+  antlr.GrammarAtom, antlr.CSharpCodeGenerator.genElementAST/r1, antlr.CSharpCodeGenerator.genElementAST/$r69
+  antlr.GrammarAtom, antlr.CSharpCodeGenerator.genElementAST/r1, antlr.CSharpCodeGenerator.genElementAST/$r88
+  antlr.GrammarAtom, antlr.JavaCodeGenerator.genBlockPreamble/r3, antlr.JavaCodeGenerator.genBlockPreamble/r4
+  antlr.GrammarAtom, antlr.JavaCodeGenerator.genBlockPreamble/r3, antlr.JavaCodeGenerator.genBlockPreamble/$r57
+  antlr.GrammarAtom, antlr.JavaCodeGenerator.genElementAST/r1, antlr.JavaCodeGenerator.genElementAST/$r52
+  antlr.GrammarAtom, antlr.JavaCodeGenerator.genElementAST/r1, antlr.JavaCodeGenerator.genElementAST/r6
+  antlr.GrammarAtom, antlr.JavaCodeGenerator.genElementAST/r1, antlr.JavaCodeGenerator.genElementAST/$r69
+  antlr.GrammarAtom, antlr.MakeGrammar.refElementOption/r3, antlr.MakeGrammar.refElementOption/$r5
+  antlr.GrammarAtom, antlr.TreeBlockContext.addAlternativeElement/r1, antlr.TreeBlockContext.addAlternativeElement/$r4
+  antlr.GrammarSymbol, <antlr.DiagnosticCodeGenerator: void gen(antlr.LexerGrammar)>/$r46, <antlr.DiagnosticCodeGenerator: void gen(antlr.LexerGrammar)>/r3
+  antlr.LexerGrammar, antlr.CppCodeGenerator.genNextToken/$r124, antlr.CppCodeGenerator.genNextToken/$r125
+  antlr.LexerGrammar, antlr.CppCodeGenerator.genNextToken/$r162, antlr.CppCodeGenerator.genNextToken/$r163
+  antlr.LexerGrammar, antlr.CppCodeGenerator.genNextToken/$r170, antlr.CppCodeGenerator.genNextToken/$r171
+  antlr.LexerGrammar, antlr.CppCodeGenerator.genNextToken/$r180, antlr.CppCodeGenerator.genNextToken/$r181
+  antlr.LexerGrammar, antlr.CppCodeGenerator.genNextToken/$r39, antlr.CppCodeGenerator.genNextToken/$r40
+  antlr.LexerGrammar, antlr.CppCodeGenerator.genNextToken/$r41, antlr.CppCodeGenerator.genNextToken/$r42
+  antlr.LexerGrammar, antlr.CppCodeGenerator.genNextToken/$r70, antlr.CppCodeGenerator.genNextToken/$r71
+  antlr.LexerGrammar, <antlr.CppCodeGenerator: void genBody(antlr.LexerGrammar)>/$r206, <antlr.CppCodeGenerator: void genBody(antlr.LexerGrammar)>/$r207
+  antlr.LexerGrammar, <antlr.CppCodeGenerator: void genInclude(antlr.LexerGrammar)>/$r149, <antlr.CppCodeGenerator: void genInclude(antlr.LexerGrammar)>/$r150
+  antlr.LexerGrammar, antlr.CSharpCodeGenerator.genNextToken/$r141, antlr.CSharpCodeGenerator.genNextToken/$r142
+  antlr.LexerGrammar, antlr.CSharpCodeGenerator.genNextToken/$r143, antlr.CSharpCodeGenerator.genNextToken/$r144
+  antlr.LexerGrammar, antlr.CSharpCodeGenerator.genNextToken/$r147, antlr.CSharpCodeGenerator.genNextToken/$r148
+  antlr.LexerGrammar, antlr.CSharpCodeGenerator.genNextToken/$r30, antlr.CSharpCodeGenerator.genNextToken/$r31
+  antlr.LexerGrammar, antlr.CSharpCodeGenerator.genNextToken/$r32, antlr.CSharpCodeGenerator.genNextToken/$r33
+  antlr.LexerGrammar, antlr.CSharpCodeGenerator.genNextToken/$r36, antlr.CSharpCodeGenerator.genNextToken/$r37
+  antlr.LexerGrammar, antlr.CSharpCodeGenerator.genNextToken/$r86, antlr.CSharpCodeGenerator.genNextToken/$r87
+  antlr.LexerGrammar, <antlr.CSharpCodeGenerator: void genBody(antlr.LexerGrammar)>/$r148, <antlr.CSharpCodeGenerator: void genBody(antlr.LexerGrammar)>/$r149
+  antlr.LexerGrammar, antlr.DefineGrammarSymbols.setCharVocabulary/$r2, antlr.DefineGrammarSymbols.setCharVocabulary/$r3
+  antlr.LexerGrammar, antlr.JavaCodeGenerator.genNextToken/$r113, antlr.JavaCodeGenerator.genNextToken/$r114
+  antlr.LexerGrammar, antlr.JavaCodeGenerator.genNextToken/$r115, antlr.JavaCodeGenerator.genNextToken/$r116
+  antlr.LexerGrammar, antlr.JavaCodeGenerator.genNextToken/$r119, antlr.JavaCodeGenerator.genNextToken/$r120
+  antlr.LexerGrammar, antlr.JavaCodeGenerator.genNextToken/$r22, antlr.JavaCodeGenerator.genNextToken/$r23
+  antlr.LexerGrammar, antlr.JavaCodeGenerator.genNextToken/$r24, antlr.JavaCodeGenerator.genNextToken/$r25
+  antlr.LexerGrammar, antlr.JavaCodeGenerator.genNextToken/$r28, antlr.JavaCodeGenerator.genNextToken/$r29
+  antlr.LexerGrammar, antlr.JavaCodeGenerator.genNextToken/$r78, antlr.JavaCodeGenerator.genNextToken/$r79
+  antlr.LexerGrammar, <antlr.JavaCodeGenerator: void gen(antlr.LexerGrammar)>/$r164, <antlr.JavaCodeGenerator: void gen(antlr.LexerGrammar)>/$r165
+  antlr.LexerGrammar, <antlr.LLkAnalyzer: antlr.Lookahead look(int,antlr.AlternativeBlock)>/$r33, <antlr.LLkAnalyzer: antlr.Lookahead look(int,antlr.AlternativeBlock)>/$r34
+  antlr.LexerGrammar, <antlr.LLkAnalyzer: antlr.Lookahead look(int,antlr.CharLiteralElement)>/$r13, <antlr.LLkAnalyzer: antlr.Lookahead look(int,antlr.CharLiteralElement)>/$r14
+  antlr.LexerGrammar, <antlr.LLkAnalyzer: antlr.Lookahead look(int,antlr.WildcardElement)>/$r13, <antlr.LLkAnalyzer: antlr.Lookahead look(int,antlr.WildcardElement)>/$r14
+  antlr.LexerGrammar, antlr.MakeGrammar.refCharLiteral/$r10, antlr.MakeGrammar.refCharLiteral/$r11
+  antlr.LexerGrammar, antlr.MakeGrammar.refCharLiteral/$r12, antlr.MakeGrammar.refCharLiteral/$r13
+  antlr.LexerGrammar, antlr.MakeGrammar.refCharRange/$r15, antlr.MakeGrammar.refCharRange/$r16
+  antlr.LexerGrammar, antlr.MakeGrammar.refCharRange/$r24, antlr.MakeGrammar.refCharRange/$r25
+  antlr.LexerGrammar, antlr.MakeGrammar.refStringLiteral/$r11, antlr.MakeGrammar.refStringLiteral/$r12
+  antlr.LexerGrammar, antlr.StringLiteralElement.<init>/r1, antlr.StringLiteralElement.<init>/$r20
+  antlr.NoViableAltException, antlr.ANTLRParser.classDef/r32, antlr.ANTLRParser.classDef/r34
+  antlr.preprocessor.Grammar, antlr.preprocessor.GrammarFile.toString/$r15, antlr.preprocessor.GrammarFile.toString/r5
+  antlr.preprocessor.Grammar, antlr.preprocessor.Hierarchy.expandGrammarsInFile/$r6, antlr.preprocessor.Hierarchy.expandGrammarsInFile/r4
+  antlr.preprocessor.Grammar, antlr.preprocessor.Hierarchy.verifyThatHierarchyIsComplete/$r19, antlr.preprocessor.Hierarchy.verifyThatHierarchyIsComplete/r20
+  antlr.preprocessor.Grammar, antlr.preprocessor.Hierarchy.verifyThatHierarchyIsComplete/$r6, antlr.preprocessor.Hierarchy.verifyThatHierarchyIsComplete/r2
+  antlr.preprocessor.Option, antlr.preprocessor.Grammar.expandInPlace/$r19, antlr.preprocessor.Grammar.expandInPlace/r6
+  antlr.preprocessor.Option, <antlr.preprocessor.Grammar: void inherit(antlr.preprocessor.Option,antlr.preprocessor.Grammar)>/$r9, <antlr.preprocessor.Grammar: void inherit(antlr.preprocessor.Option,antlr.preprocessor.Grammar)>/r3
+  antlr.preprocessor.Option, antlr.preprocessor.Hierarchy.optionsToString/$r9, antlr.preprocessor.Hierarchy.optionsToString/$r10
+  antlr.preprocessor.Option, antlr.preprocessor.Rule.toString/$r48, antlr.preprocessor.Rule.toString/$r49
+  antlr.RuleBlock, antlr.CppCodeGenerator.genAlt/r2, antlr.CppCodeGenerator.genAlt/r5
+  antlr.RuleBlock, antlr.CppCodeGenerator.genBlockPreamble/r1, antlr.CppCodeGenerator.genBlockPreamble/r2
+  antlr.RuleBlock, antlr.CSharpCodeGenerator.genAlt/r2, antlr.CSharpCodeGenerator.genAlt/r5
+  antlr.RuleBlock, antlr.CSharpCodeGenerator.genBlockPreamble/r1, antlr.CSharpCodeGenerator.genBlockPreamble/r2
+  antlr.RuleBlock, antlr.DefaultToolErrorHandler.warnAltAmbiguity/r2, antlr.DefaultToolErrorHandler.warnAltAmbiguity/$r12
+  antlr.RuleBlock, antlr.JavaCodeGenerator.genAlt/r2, antlr.JavaCodeGenerator.genAlt/r5
+  antlr.RuleBlock, antlr.JavaCodeGenerator.genBlockPreamble/r1, antlr.JavaCodeGenerator.genBlockPreamble/r2
+  antlr.RuleBlock, antlr.LLkAnalyzer.FOLLOW/$r9, antlr.LLkAnalyzer.FOLLOW/r2
+  antlr.RuleBlock, antlr.MakeGrammar.endExceptionSpec/$r6, antlr.MakeGrammar.endExceptionSpec/$r7
+  antlr.RuleBlock, antlr.MakeGrammar.refArgAction/$r3, antlr.MakeGrammar.refArgAction/$r4
+  antlr.RuleBlock, antlr.MakeGrammar.refReturnAction/$r16, antlr.MakeGrammar.refReturnAction/$r17
+  antlr.RuleBlock, antlr.MakeGrammar.refReturnAction/$r6, antlr.MakeGrammar.refReturnAction/$r7
+  antlr.RuleBlock, antlr.MakeGrammar.setUserExceptions/$r3, antlr.MakeGrammar.setUserExceptions/$r4
+  antlr.RuleRefElement, antlr.AlternativeBlock.removeTrackingOfRuleRefs/r3, antlr.AlternativeBlock.removeTrackingOfRuleRefs/r4
+  antlr.RuleRefElement, antlr.CppCodeGenerator.mapTreeVariable/r1, antlr.CppCodeGenerator.mapTreeVariable/$r8
+  antlr.RuleRefElement, antlr.CSharpCodeGenerator.mapTreeVariable/r1, antlr.CSharpCodeGenerator.mapTreeVariable/$r8
+  antlr.RuleRefElement, antlr.DefaultToolErrorHandler.warnAltAmbiguity/$r13, antlr.DefaultToolErrorHandler.warnAltAmbiguity/r8
+  antlr.RuleRefElement, antlr.DefaultToolErrorHandler.warnAltAmbiguity/$r14, antlr.DefaultToolErrorHandler.warnAltAmbiguity/r9
+  antlr.RuleRefElement, antlr.JavaCodeGenerator.mapTreeVariable/r1, antlr.JavaCodeGenerator.mapTreeVariable/$r8
+  antlr.StringLiteralSymbol, antlr.ANTLRTokdefParser.line/$r19, antlr.ANTLRTokdefParser.line/r6
+  antlr.StringLiteralSymbol, antlr.CodeGenerator.genTokenInterchange/$r41, antlr.CodeGenerator.genTokenInterchange/r6
+  antlr.StringLiteralSymbol, antlr.CppCodeGenerator.genTokenTypes/$r47, antlr.CppCodeGenerator.genTokenTypes/r5
+  antlr.StringLiteralSymbol, antlr.CppCodeGenerator.getValueString/r2, antlr.CppCodeGenerator.getValueString/r4
+  antlr.StringLiteralSymbol, <antlr.CppCodeGenerator: void genBody(antlr.LexerGrammar)>/r5, <antlr.CppCodeGenerator: void genBody(antlr.LexerGrammar)>/r6
+  antlr.StringLiteralSymbol, antlr.CSharpCodeGenerator.genTokenDefinitions/$r7, antlr.CSharpCodeGenerator.genTokenDefinitions/r4
+  antlr.StringLiteralSymbol, antlr.CSharpCodeGenerator.getValueString/r2, antlr.CSharpCodeGenerator.getValueString/r4
+  antlr.StringLiteralSymbol, <antlr.CSharpCodeGenerator: void genBody(antlr.LexerGrammar)>/r6, <antlr.CSharpCodeGenerator: void genBody(antlr.LexerGrammar)>/r7
+  antlr.StringLiteralSymbol, antlr.DefineGrammarSymbols.defineToken/$r9, antlr.DefineGrammarSymbols.defineToken/r5
+  antlr.StringLiteralSymbol, <antlr.DiagnosticCodeGenerator: void gen(antlr.LexerGrammar)>/r3, <antlr.DiagnosticCodeGenerator: void gen(antlr.LexerGrammar)>/r4
+  antlr.StringLiteralSymbol, antlr.JavaCodeGenerator.genTokenTypes/$r24, antlr.JavaCodeGenerator.genTokenTypes/r5
+  antlr.StringLiteralSymbol, antlr.JavaCodeGenerator.getValueString/r2, antlr.JavaCodeGenerator.getValueString/r4
+  antlr.StringLiteralSymbol, <antlr.JavaCodeGenerator: void gen(antlr.LexerGrammar)>/r8, <antlr.JavaCodeGenerator: void gen(antlr.LexerGrammar)>/r9
+  antlr.SynPredBlock, antlr.MakeGrammar.endSubRule/r2, antlr.MakeGrammar.endSubRule/r21
+  antlr.TokenManager, <antlr.CppCodeGenerator: void gen()>/$r12, <antlr.CppCodeGenerator: void gen()>/r3
+  antlr.TokenManager, <antlr.CSharpCodeGenerator: void gen()>/$r12, <antlr.CSharpCodeGenerator: void gen()>/r3
+  antlr.TokenManager, <antlr.DiagnosticCodeGenerator: void gen()>/$r14, <antlr.DiagnosticCodeGenerator: void gen()>/r3
+  antlr.TokenManager, <antlr.JavaCodeGenerator: void gen()>/$r12, <antlr.JavaCodeGenerator: void gen()>/r3
+  antlr.TokenRefElement, antlr.CppCodeGenerator.mapTreeVariable/r1, antlr.CppCodeGenerator.mapTreeVariable/$r7
+  antlr.TokenRefElement, antlr.CSharpCodeGenerator.mapTreeVariable/r1, antlr.CSharpCodeGenerator.mapTreeVariable/$r7
+  antlr.TokenRefElement, antlr.JavaCodeGenerator.mapTreeVariable/r1, antlr.JavaCodeGenerator.mapTreeVariable/$r7
+  antlr.TreeElement, antlr.CppCodeGenerator.mapTreeVariable/r1, antlr.CppCodeGenerator.mapTreeVariable/$r4
+  antlr.TreeElement, antlr.CSharpCodeGenerator.mapTreeVariable/r1, antlr.CSharpCodeGenerator.mapTreeVariable/$r4
+  antlr.TreeElement, antlr.JavaCodeGenerator.mapTreeVariable/r1, antlr.JavaCodeGenerator.mapTreeVariable/$r4
+  antlr.TreeElement, antlr.LLkAnalyzer.altUsesWildcardDefault/r2, antlr.LLkAnalyzer.altUsesWildcardDefault/$r3
+  antlr.TreeElement, antlr.LLkAnalyzer.removeCompetingPredictionSets/r3, antlr.LLkAnalyzer.removeCompetingPredictionSets/$r8
+  antlr.TreeElement, antlr.TreeBlockContext.addAlternativeElement/$r3, antlr.TreeBlockContext.addAlternativeElement/r2
+  antlr.WildcardElement, <antlr.CppCodeGenerator: void genMatch(antlr.GrammarAtom)>/r1, <antlr.CppCodeGenerator: void genMatch(antlr.GrammarAtom)>/$r9
+  antlr.WildcardElement, <antlr.CSharpCodeGenerator: void genMatch(antlr.GrammarAtom)>/r1, <antlr.CSharpCodeGenerator: void genMatch(antlr.GrammarAtom)>/$r9
+  antlr.WildcardElement, <antlr.JavaCodeGenerator: void genMatch(antlr.GrammarAtom)>/r1, <antlr.JavaCodeGenerator: void genMatch(antlr.GrammarAtom)>/$r9
+  byte[], sun.security.pkcs.PKCS9Attribute.derEncode/$r19, sun.security.pkcs.PKCS9Attribute.derEncode/$r20
+  byte[], sun.security.pkcs.PKCS9Attribute.derEncode/$r58, sun.security.pkcs.PKCS9Attribute.derEncode/$r59
+  byte[], <sun.security.pkcs.SignerInfo: sun.security.pkcs.SignerInfo verify(sun.security.pkcs.PKCS7,byte[])>/$r20, <sun.security.pkcs.SignerInfo: sun.security.pkcs.SignerInfo verify(sun.security.pkcs.PKCS7,byte[])>/$r21
+  byte[], sun.security.util.DerIndefLenConverter.parseTag/r1, sun.security.util.DerIndefLenConverter.parseTag/$r7
+  byte[], sun.security.util.DerIndefLenConverter.writeLengthAndValue/$r6, sun.security.util.DerIndefLenConverter.writeLengthAndValue/$r7
+  byte[], sun.security.util.SignatureFileVerifier.getTimestamp/$r12, sun.security.util.SignatureFileVerifier.getTimestamp/$r13
+  byte[], sun.util.calendar.ZoneInfoFile.readZoneInfoFile/$r5, sun.util.calendar.ZoneInfoFile.readZoneInfoFile/r1
+  char[], sun.misc.FloatingDecimal.appendTo/$r4, sun.misc.FloatingDecimal.appendTo/$r5
+  char[], sun.misc.FloatingDecimal.developLongDigits/$r5, sun.misc.FloatingDecimal.developLongDigits/$r6
+  char[], sun.misc.FloatingDecimal.developLongDigits/$r8, sun.misc.FloatingDecimal.developLongDigits/$r9
+  char[], sun.misc.FloatingDecimal.toJavaFormatString/$r3, sun.misc.FloatingDecimal.toJavaFormatString/$r4
+  char[], sun.text.normalizer.RuleCharacterIterator.setPos/$r5, sun.text.normalizer.RuleCharacterIterator.setPos/$r6
+  com.sun.security.auth.PrincipalComparator, sun.security.provider.PolicyFile.addPermissions/$r57, sun.security.provider.PolicyFile.addPermissions/r12
+  java.io.File, java.io.File.equals/r1, java.io.File.equals/$r2
+  java.io.FilePermission, java.io.FilePermissionCollection.implies/r1, java.io.FilePermissionCollection.implies/r2
+  java.io.FilePermission, java.io.FilePermissionCollection.implies/$r9, java.io.FilePermissionCollection.implies/r4
+  java.io.FilePermission, java.io.FilePermission.equals/r1, java.io.FilePermission.equals/r2
+  java.io.FilePermission, java.io.FilePermission.implies/r1, java.io.FilePermission.implies/r2
+  java.io.File, sun.misc.ExtensionDependency.checkExtensionExists/$r6, sun.misc.ExtensionDependency.checkExtensionExists/$r7
+  java.io.File[], sun.misc.ExtensionDependency.getInstalledExtensions/$r2, sun.misc.ExtensionDependency.getInstalledExtensions/$r3
+  java.io.InputStream, java.util.ResourceBundle$Control.newBundle/$r23, java.util.ResourceBundle$Control.newBundle/r24
+  java.io.InputStream, <sun.text.normalizer.ICUData: java.io.InputStream getStream(java.lang.Class,java.lang.String,boolean)>/$r4, <sun.text.normalizer.ICUData: java.io.InputStream getStream(java.lang.Class,java.lang.String,boolean)>/r5
+  java.io.PushbackInputStream, sun.security.util.Password.readPassword/r0, sun.security.util.Password.readPassword/$r13
+  java.lang.Boolean, java.io.FileInputStream.isRunningFinalize/$r2, java.io.FileInputStream.isRunningFinalize/$r3
+  java.lang.Boolean, java.io.FileOutputStream.isRunningFinalize/$r2, java.io.FileOutputStream.isRunningFinalize/$r3
+  java.lang.Boolean, java.lang.ClassLoader.loadLibrary0/$r13, java.lang.ClassLoader.loadLibrary0/r3
+  java.lang.Boolean, java.lang.Thread.isCCLOverridden/$r5, java.lang.Thread.isCCLOverridden/r6
+  java.lang.Boolean, java.net.InetAddress.<clinit>/$r4, java.net.InetAddress.<clinit>/$r5
+  java.lang.Boolean, java.net.SocketPermission.<clinit>/$r2, java.net.SocketPermission.<clinit>/r0
+  java.lang.Boolean, java.net.SocketPermission.<clinit>/$r4, java.net.SocketPermission.<clinit>/r5
+  java.lang.Boolean, java.net.URL.<clinit>/$r3, java.net.URL.<clinit>/$r4
+  java.lang.Boolean, sun.security.jca.ProviderConfig.checkSunPKCS11Solaris/$r3, sun.security.jca.ProviderConfig.checkSunPKCS11Solaris/r2
+  java.lang.Boolean, sun.security.provider.PolicyFile.addPermissions/$r23, sun.security.provider.PolicyFile.addPermissions/r7
+  java.lang.Boolean, <sun.security.provider.PolicyFile: boolean initPolicyFile(java.lang.String,java.lang.String,sun.security.provider.PolicyFile$PolicyInfo)>/$r6, <sun.security.provider.PolicyFile: boolean initPolicyFile(java.lang.String,java.lang.String,sun.security.provider.PolicyFile$PolicyInfo)>/r5
+  java.lang.Boolean, sun.security.x509.AVA.<clinit>/$r2, sun.security.x509.AVA.<clinit>/$r3
+  java.lang.Boolean, sun.util.resources.LocaleData.isNonEuroLangSupported/$r16, sun.util.resources.LocaleData.isNonEuroLangSupported/$r17
+  java.lang.Byte, java.lang.Byte.equals/r1, java.lang.Byte.equals/$r2
+  java.lang.ClassLoader, java.lang.ClassLoader.initSystemClassLoader/$r8, java.lang.ClassLoader.initSystemClassLoader/$r9
+  java.lang.ClassLoader, java.lang.SystemClassLoaderAction.run/$r12, java.lang.SystemClassLoaderAction.run/r6
+  java.lang.ClassLoader, sun.reflect.ClassDefiner.defineClass/$r5, sun.reflect.ClassDefiner.defineClass/r4
+  java.lang.Comparable, <java.util.Arrays: void mergeSort(java.lang.Object[],java.lang.Object[],int,int,int)>/$r2, <java.util.Arrays: void mergeSort(java.lang.Object[],java.lang.Object[],int,int,int)>/$r3
+  java.lang.Comparable, <java.util.Arrays: void mergeSort(java.lang.Object[],java.lang.Object[],int,int,int)>/$r5, <java.util.Arrays: void mergeSort(java.lang.Object[],java.lang.Object[],int,int,int)>/$r6
+  java.lang.Comparable, <java.util.Arrays: void mergeSort(java.lang.Object[],java.lang.Object[],int,int,int)>/$r8, <java.util.Arrays: void mergeSort(java.lang.Object[],java.lang.Object[],int,int,int)>/$r9
+  java.lang.Comparable, java.util.TreeMap.getEntry/r1, java.util.TreeMap.getEntry/r2
+  java.lang.Comparable, java.util.TreeMap.put/r1, java.util.TreeMap.put/r7
+  java.lang.ConditionalSpecialCasing$Entry, java.lang.ConditionalSpecialCasing.lookUpTable/$r10, java.lang.ConditionalSpecialCasing.lookUpTable/r7
+  java.lang.Integer, java.lang.Integer.equals/r1, java.lang.Integer.equals/$r2
+  java.lang.Integer, java.util.logging.LogRecord.<init>/$r9, java.util.logging.LogRecord.<init>/r4
+  java.lang.Integer, sun.net.InetAddressCachePolicy.<clinit>/$r16, sun.net.InetAddressCachePolicy.<clinit>/r17
+  java.lang.Integer, sun.net.InetAddressCachePolicy.<clinit>/$r8, sun.net.InetAddressCachePolicy.<clinit>/r0
+  java.lang.Integer, sun.security.util.DerIndefLenConverter.parseTag/r1, sun.security.util.DerIndefLenConverter.parseTag/$r10
+  java.lang.Number, <java.text.DateFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.DateFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r7
+  java.lang.Number, java.text.DecimalFormat.formatToCharacterIterator/r1, java.text.DecimalFormat.formatToCharacterIterator/$r6
+  java.lang.Number, java.text.DecimalFormat.formatToCharacterIterator/r1, java.text.DecimalFormat.formatToCharacterIterator/$r8
+  java.lang.Number, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r11
+  java.lang.Number, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r5
+  java.lang.Number, <java.text.NumberFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.NumberFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r5
+  java.lang.Number, <java.text.NumberFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.NumberFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r7
+  java.lang.Number, java.text.SimpleDateFormat.formatToCharacterIterator/r1, java.text.SimpleDateFormat.formatToCharacterIterator/$r9
+  java.lang.Object[], java.text.MessageFormat.formatToCharacterIterator/r1, java.text.MessageFormat.formatToCharacterIterator/$r7
+  java.lang.Object[], <java.text.MessageFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.MessageFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r4
+  java.lang.Object[], sun.nio.cs.ThreadLocalCoders$Cache.forName/$r5, sun.nio.cs.ThreadLocalCoders$Cache.forName/$r6
+  java.lang.Object[], sun.util.PreHashedMap.get/$r9, sun.util.PreHashedMap.get/$r10
+  java.lang.Object[], <sun.util.PreHashedMap: java.lang.Object put(java.lang.String,java.lang.Object)>/$r12, <sun.util.PreHashedMap: java.lang.Object put(java.lang.String,java.lang.Object)>/$r13
+  java.lang.Package, java.lang.Package.defineSystemPackage/$r3, java.lang.Package.defineSystemPackage/$r4
+  java.lang.ref.Finalizer, java.lang.ref.Finalizer$FinalizerThread.run/$r3, java.lang.ref.Finalizer$FinalizerThread.run/r1
+  java.lang.reflect.Constructor, java.lang.reflect.AccessibleObject.setAccessible0/r0, java.lang.reflect.AccessibleObject.setAccessible0/r1
+  java.lang.reflect.Constructor, sun.security.x509.X500Name.<clinit>/$r73, sun.security.x509.X500Name.<clinit>/$r74
+  java.lang.reflect.Field, sun.security.x509.X500Name.<clinit>/$r75, sun.security.x509.X500Name.<clinit>/$r76
+  java.lang.reflect.InvocationTargetException, <sun.security.jca.ProviderConfig$3: java.security.Provider run()>/r38, <sun.security.jca.ProviderConfig$3: java.security.Provider run()>/$r39
+  java.lang.ref.SoftReference, java.lang.StringCoding.deref/$r2, java.lang.StringCoding.deref/r1
+  java.lang.ref.WeakReference, java.util.logging.LogManager.drainLoggerRefQueueBounded/$r5, java.util.logging.LogManager.drainLoggerRefQueueBounded/r1
+  java.lang.RuntimeException, java.security.Signature$Delegate.chooseProvider/r4, java.security.Signature$Delegate.chooseProvider/$r20
+  java.lang.RuntimeException, javax.crypto.Cipher.chooseProvider/r6, javax.crypto.Cipher.chooseProvider/$r26
+  java.lang.String, antlr.ANTLRHashString.equals/r1, antlr.ANTLRHashString.equals/$r4
+  java.lang.String, <antlr.CppCodeGenerator: void genBody(antlr.LexerGrammar)>/$r153, <antlr.CppCodeGenerator: void genBody(antlr.LexerGrammar)>/r4
+  java.lang.String, <antlr.CSharpCodeGenerator: void genBody(antlr.LexerGrammar)>/$r113, <antlr.CSharpCodeGenerator: void genBody(antlr.LexerGrammar)>/r5
+  java.lang.String, <antlr.JavaCodeGenerator: void gen(antlr.LexerGrammar)>/$r131, <antlr.JavaCodeGenerator: void gen(antlr.LexerGrammar)>/r7
+  java.lang.StringBuffer, <java.lang.StringBuffer: java.lang.StringBuffer append(java.lang.CharSequence)>/r1, <java.lang.StringBuffer: java.lang.StringBuffer append(java.lang.CharSequence)>/$r4
+  java.lang.StringBuffer, <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence)>/r1, <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence)>/$r4
+  java.lang.StringBuffer, sun.misc.FloatingDecimal.appendTo/r1, sun.misc.FloatingDecimal.appendTo/$r8
+  java.lang.StringBuilder, <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence)>/r1, <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence)>/$r6
+  java.lang.StringCoding$StringDecoder, <java.lang.StringCoding: char[] decode(java.lang.String,byte[],int,int)>/$r6, <java.lang.StringCoding: char[] decode(java.lang.String,byte[],int,int)>/r3
+  java.lang.StringCoding$StringEncoder, <java.lang.StringCoding: byte[] encode(java.lang.String,char[],int,int)>/$r6, <java.lang.StringCoding: byte[] encode(java.lang.String,char[],int,int)>/r3
+  java.lang.String, java.io.DeleteOnExitHook.run/$r10, java.io.DeleteOnExitHook.run/r5
+  java.lang.String[], <java.io.File: java.lang.String[] list(java.io.FilenameFilter)>/$r8, <java.io.File: java.lang.String[] list(java.io.FilenameFilter)>/$r9
+  java.lang.String, <java.lang.StringBuffer: java.lang.StringBuffer append(java.lang.CharSequence)>/r1, <java.lang.StringBuffer: java.lang.StringBuffer append(java.lang.CharSequence)>/$r2
+  java.lang.String, <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence)>/r1, <java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence)>/$r2
+  java.lang.String, java.lang.String.equals/r1, java.lang.String.equals/r2
+  java.lang.String, <java.lang.String: int compareTo(java.lang.Object)>/r1, <java.lang.String: int compareTo(java.lang.Object)>/$r2
+  java.lang.String, java.net.InetAddress.<clinit>/$r21, java.net.InetAddress.<clinit>/r22
+  java.lang.String, java.net.InetAddress.<clinit>/$r29, java.net.InetAddress.<clinit>/r22
+  java.lang.String, java.net.InetAddress.loadImpl/$r5, java.net.InetAddress.loadImpl/r2
+  java.lang.String, java.net.URL.getURLStreamHandler/$r14, java.net.URL.getURLStreamHandler/r15
+  java.lang.String, java.nio.charset.Charset.atBugLevel/$r3, java.nio.charset.Charset.atBugLevel/$r4
+  java.lang.String, java.nio.charset.Charset.defaultCharset/$r7, java.nio.charset.Charset.defaultCharset/r2
+  java.lang.String, java.security.IdentityScope.initializeSystemScope/$r3, java.security.IdentityScope.initializeSystemScope/r1
+  java.lang.String, java.security.KeyStore.getDefaultType/$r2, java.security.KeyStore.getDefaultType/r1
+  java.lang.String, java.security.Policy.getPolicyNoCheck/$r5, java.security.Policy.getPolicyNoCheck/r6
+  java.lang.String[], java.text.DateFormatSymbols.initializeData/$r5, java.text.DateFormatSymbols.initializeData/$r6
+  java.lang.String[], java.text.DecimalFormatSymbols.initialize/$r9, java.text.DecimalFormatSymbols.initialize/$r10
+  java.lang.String, java.text.MessageFormat.subformat/r5, java.text.MessageFormat.subformat/r6
+  java.lang.String, <java.util.Currency: java.lang.String getSymbol(java.util.Locale)>/$r9, <java.util.Currency: java.lang.String getSymbol(java.util.Locale)>/r4
+  java.lang.String, java.util.Locale.getDefault/$r10, java.util.Locale.getDefault/r3
+  java.lang.String, java.util.Locale.getDefault/$r12, java.util.Locale.getDefault/r4
+  java.lang.String, java.util.Locale.getDefault/$r6, java.util.Locale.getDefault/r1
+  java.lang.String, java.util.Locale.getDefault/$r8, java.util.Locale.getDefault/r2
+  java.lang.String, java.util.logging.Logger$LoggerHelper.getBooleanProperty/$r3, java.util.logging.Logger$LoggerHelper.getBooleanProperty/r2
+  java.lang.String[], java.util.logging.LogManager.parseClassNames/$r10, java.util.logging.LogManager.parseClassNames/$r11
+  java.lang.String, java.util.logging.LogManager.reset/$r13, java.util.logging.LogManager.reset/r4
+  java.lang.String, java.util.logging.LogManager.setLevelsOnExistingLoggers/$r9, java.util.logging.LogManager.setLevelsOnExistingLoggers/r2
+  java.lang.String, java.util.Properties.enumerate/$r6, java.util.Properties.enumerate/r3
+  java.lang.String[], <java.util.regex.Pattern: java.lang.String[] split(java.lang.CharSequence,int)>/$r17, <java.util.regex.Pattern: java.lang.String[] split(java.lang.CharSequence,int)>/$r18
+  java.lang.String, java.util.regex.PatternSyntaxException.<clinit>/$r1, java.util.regex.PatternSyntaxException.<clinit>/$r2
+  java.lang.String[], java.util.ResourceBundle.getStringArray/$r2, java.util.ResourceBundle.getStringArray/$r3
+  java.lang.String, java.util.ResourceBundle.loadBundle/$r11, java.util.ResourceBundle.loadBundle/r5
+  java.lang.String, java.util.TimeZone.setDefaultZone/$r5, java.util.TimeZone.setDefaultZone/r0
+  java.lang.String, java.util.TimeZone.setDefaultZone/$r7, java.util.TimeZone.setDefaultZone/r1
+  java.lang.String, java.util.TimeZone.setDefaultZone/$r9, java.util.TimeZone.setDefaultZone/r2
+  java.lang.String, sun.misc.ExtensionDependency.getExtDirs/$r5, sun.misc.ExtensionDependency.getExtDirs/r1
+  java.lang.String[], sun.misc.JarIndex.read/$r14, sun.misc.JarIndex.read/$r15
+  java.lang.String, sun.misc.Launcher.getBootstrapClassPath/$r5, sun.misc.Launcher.getBootstrapClassPath/r1
+  java.lang.String[], sun.misc.MetaIndex.<init>/$r4, sun.misc.MetaIndex.<init>/$r5
+  java.lang.String, sun.misc.URLClassPath.<clinit>/$r2, sun.misc.URLClassPath.<clinit>/$r3
+  java.lang.String, sun.misc.URLClassPath.<clinit>/$r7, sun.misc.URLClassPath.<clinit>/r1
+  java.lang.String, sun.net.InetAddressCachePolicy.<clinit>/$r11, sun.net.InetAddressCachePolicy.<clinit>/$r12
+  java.lang.String, sun.net.InetAddressCachePolicy.<clinit>/$r4, sun.net.InetAddressCachePolicy.<clinit>/$r5
+  java.lang.String, sun.nio.cs.FastCharsetProvider.canonicalize/$r4, sun.nio.cs.FastCharsetProvider.canonicalize/r2
+  java.lang.String, sun.nio.cs.FastCharsetProvider.lookup/$r10, sun.nio.cs.FastCharsetProvider.lookup/r4
+  java.lang.String, sun.security.pkcs.PKCS9Attribute.derEncode/$r33, sun.security.pkcs.PKCS9Attribute.derEncode/$r34
+  java.lang.String[], sun.security.pkcs.PKCS9Attribute.derEncode/$r36, sun.security.pkcs.PKCS9Attribute.derEncode/$r37
+  java.lang.String[], sun.security.pkcs.PKCS9Attribute.derEncode/$r8, sun.security.pkcs.PKCS9Attribute.derEncode/$r9
+  java.lang.String, <sun.security.provider.PolicyFile: void init(java.net.URL)>/$r5, <sun.security.provider.PolicyFile: void init(java.net.URL)>/r3
+  java.lang.String, sun.security.util.Debug.<clinit>/$r2, sun.security.util.Debug.<clinit>/$r3
+  java.lang.String, sun.security.util.Debug.<clinit>/$r5, sun.security.util.Debug.<clinit>/r1
+  java.lang.String, sun.text.normalizer.UnicodeSet._generatePattern/$r10, sun.text.normalizer.UnicodeSet._generatePattern/$r11
+  java.lang.String, sun.text.normalizer.UnicodeSetIterator.nextRange/$r4, sun.text.normalizer.UnicodeSetIterator.nextRange/$r5
+  java.lang.String, sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/$r12, sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/r1
+  java.lang.String, sun.util.calendar.ZoneInfo.<clinit>/$r2, sun.util.calendar.ZoneInfo.<clinit>/$r3
+  java.lang.String, sun.util.calendar.ZoneInfoFile.<clinit>/$r8, sun.util.calendar.ZoneInfoFile.<clinit>/r0
+  java.lang.String, sun.util.calendar.ZoneInfoFile.getZoneInfoDir/$r3, sun.util.calendar.ZoneInfoFile.getZoneInfoDir/$r4
+  java.lang.String, sun.util.resources.LocaleData.isNonEuroLangSupported/$r5, sun.util.resources.LocaleData.isNonEuroLangSupported/$r6
+  java.lang.ThreadDeath, java.lang.Shutdown.runHooks/r3, java.lang.Shutdown.runHooks/r4
+  java.lang.ThreadGroup[], <java.lang.ThreadGroup: void add(java.lang.ThreadGroup)>/$r10, <java.lang.ThreadGroup: void add(java.lang.ThreadGroup)>/$r11
+  java.lang.Thread, java.lang.ApplicationShutdownHooks.run/$r12, java.lang.ApplicationShutdownHooks.run/r13
+  java.lang.Thread, java.lang.ApplicationShutdownHooks.run/$r9, java.lang.ApplicationShutdownHooks.run/r10
+  java.lang.Thread[], <java.lang.ThreadGroup: void add(java.lang.Thread)>/$r10, <java.lang.ThreadGroup: void add(java.lang.Thread)>/$r11
+  java.lang.Throwable, <java.lang.AssertionError: void <init>(java.lang.Object)>/r1, <java.lang.AssertionError: void <init>(java.lang.Object)>/$r6
+  java.math.BigDecimal, java.text.DecimalFormat.formatToCharacterIterator/r1, java.text.DecimalFormat.formatToCharacterIterator/$r10
+  java.math.BigDecimal, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r7
+  java.math.BigInteger, java.text.DecimalFormat.formatToCharacterIterator/r1, java.text.DecimalFormat.formatToCharacterIterator/$r12
+  java.math.BigInteger, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r4
+  java.math.BigInteger, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.DecimalFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r9
+  java.math.BigInteger, <java.text.NumberFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.NumberFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r4
+  java.net.Inet6Address, java.net.Inet6Address.equals/r1, java.net.Inet6Address.equals/r2
+  java.net.InetAddressImpl, java.net.InetAddressImplFactory.create/r0, java.net.InetAddressImplFactory.create/$r1
+  java.net.SocketPermission, java.net.SocketPermissionCollection.implies/r1, java.net.SocketPermissionCollection.implies/r2
+  java.net.SocketPermission, java.net.SocketPermissionCollection.implies/$r9, java.net.SocketPermissionCollection.implies/r4
+  java.net.SocketPermission, java.net.SocketPermission.equals/r1, java.net.SocketPermission.equals/r2
+  java.net.SocketPermission, java.net.SocketPermission.implies/r1, java.net.SocketPermission.implies/r2
+  java.net.URL, java.net.URL.equals/r1, java.net.URL.equals/r2
+  java.net.URLStreamHandler, java.net.URL.getURLStreamHandler/$r31, java.net.URL.getURLStreamHandler/r2
+  java.net.URLStreamHandler, sun.misc.Launcher$Factory.createURLStreamHandler/$r11, sun.misc.Launcher$Factory.createURLStreamHandler/$r12
+  java.net.URL, sun.misc.ExtensionDependency.addNewExtensionsToClassLoader/$r7, sun.misc.ExtensionDependency.addNewExtensionsToClassLoader/r4
+  java.net.URL[], sun.misc.Launcher.getBootstrapClassPath/$r7, sun.misc.Launcher.getBootstrapClassPath/$r8
+  java.net.URL[], sun.misc.URLClassPath.getURLs/$r7, sun.misc.URLClassPath.getURLs/$r8
+  java.nio.charset.CharsetDecoder, sun.nio.cs.ThreadLocalCoders$1.hasName/r1, sun.nio.cs.ThreadLocalCoders$1.hasName/$r3
+  java.nio.charset.CharsetDecoder, sun.nio.cs.ThreadLocalCoders$1.hasName/r1, sun.nio.cs.ThreadLocalCoders$1.hasName/$r6
+  java.nio.charset.CharsetDecoder, sun.nio.cs.ThreadLocalCoders.decoderFor/$r3, sun.nio.cs.ThreadLocalCoders.decoderFor/r2
+  java.nio.charset.CharsetEncoder, sun.nio.cs.ThreadLocalCoders$2.hasName/r1, sun.nio.cs.ThreadLocalCoders$2.hasName/$r3
+  java.nio.charset.CharsetEncoder, sun.nio.cs.ThreadLocalCoders$2.hasName/r1, sun.nio.cs.ThreadLocalCoders$2.hasName/$r6
+  java.nio.charset.CharsetEncoder, sun.nio.cs.ThreadLocalCoders.encoderFor/$r3, sun.nio.cs.ThreadLocalCoders.encoderFor/r2
+  java.nio.charset.Charset, java.nio.charset.Charset.equals/r1, java.nio.charset.Charset.equals/$r3
+  java.nio.charset.Charset, java.nio.charset.Charset.lookup2/$r6, java.nio.charset.Charset.lookup2/$r7
+  java.nio.charset.Charset, java.nio.charset.Charset.lookup/$r5, java.nio.charset.Charset.lookup/$r6
+  java.nio.charset.Charset, java.nio.charset.Charset.lookupViaProviders/$r8, java.nio.charset.Charset.lookupViaProviders/r2
+  java.nio.charset.Charset, sun.nio.cs.FastCharsetProvider.lookup/$r23, sun.nio.cs.FastCharsetProvider.lookup/r24
+  java.nio.charset.Charset, sun.nio.cs.FastCharsetProvider.lookup/$r8, sun.nio.cs.FastCharsetProvider.lookup/r3
+  java.nio.charset.Charset, sun.nio.cs.ThreadLocalCoders$1.create/r1, sun.nio.cs.ThreadLocalCoders$1.create/$r5
+  java.nio.charset.Charset, sun.nio.cs.ThreadLocalCoders$2.create/r1, sun.nio.cs.ThreadLocalCoders$2.create/$r5
+  java.nio.charset.spi.CharsetProvider, <java.nio.charset.Charset$2: java.nio.charset.Charset run()>/$r4, <java.nio.charset.Charset$2: java.nio.charset.Charset run()>/r2
+  java.security.AlgorithmParametersSpi, <java.security.AlgorithmParameters: java.security.AlgorithmParameters getInstance(java.lang.String,java.security.Provider)>/$r5, <java.security.AlgorithmParameters: java.security.AlgorithmParameters getInstance(java.lang.String,java.security.Provider)>/$r6
+  java.security.AlgorithmParametersSpi, <java.security.AlgorithmParameters: java.security.AlgorithmParameters getInstance(java.lang.String)>/$r4, <java.security.AlgorithmParameters: java.security.AlgorithmParameters getInstance(java.lang.String)>/$r5
+  java.security.BasicPermission, java.security.BasicPermissionCollection.add/r1, java.security.BasicPermissionCollection.add/r3
+  java.security.BasicPermission, java.security.BasicPermissionCollection.implies/r1, java.security.BasicPermissionCollection.implies/r2
+  java.security.BasicPermission, java.security.BasicPermission.equals/r1, java.security.BasicPermission.equals/r2
+  java.security.BasicPermission, java.security.BasicPermission.implies/r1, java.security.BasicPermission.implies/r2
+  java.security.cert.Certificate[], java.security.CodeSource.getCertificates/$r14, java.security.CodeSource.getCertificates/$r15
+  java.security.cert.Certificate[], java.util.jar.JarVerifier.mapSignersToCertArray/$r7, java.util.jar.JarVerifier.mapSignersToCertArray/$r8
+  java.security.cert.Certificate, sun.security.provider.PolicyFile.getCertificates/$r14, sun.security.provider.PolicyFile.getCertificates/r15
+  java.security.CodeSigner[], sun.security.util.SignatureFileVerifier.getSigners/$r19, sun.security.util.SignatureFileVerifier.getSigners/$r20
+  java.security.CodeSource, <sun.security.provider.PolicyFile: java.security.PermissionCollection getPermissions(java.security.Permissions,java.security.ProtectionDomain)>/$r13, <sun.security.provider.PolicyFile: java.security.PermissionCollection getPermissions(java.security.Permissions,java.security.ProtectionDomain)>/r6
+  java.security.Identity, sun.security.provider.PolicyFile.checkForTrustedIdentity/$r11, sun.security.provider.PolicyFile.checkForTrustedIdentity/r12
+  java.security.InvalidAlgorithmParameterException, javax.crypto.Cipher.chooseProvider/r6, javax.crypto.Cipher.chooseProvider/$r25
+  java.security.InvalidKeyException, java.security.Signature$Delegate.chooseProvider/r4, java.security.Signature$Delegate.chooseProvider/$r19
+  java.security.InvalidKeyException, javax.crypto.Cipher.chooseProvider/r6, javax.crypto.Cipher.chooseProvider/$r24
+  java.security.KeyStoreSpi, <java.security.KeyStore: java.security.KeyStore getInstance(java.lang.String,java.lang.String)>/$r5, <java.security.KeyStore: java.security.KeyStore getInstance(java.lang.String,java.lang.String)>/$r6
+  java.security.KeyStoreSpi, <java.security.KeyStore: java.security.KeyStore getInstance(java.lang.String)>/$r4, <java.security.KeyStore: java.security.KeyStore getInstance(java.lang.String)>/$r5
+  java.security.MessageDigest, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String,java.security.Provider)>/$r6, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String,java.security.Provider)>/r3
+  java.security.MessageDigest, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String)>/$r5, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String)>/r2
+  java.security.MessageDigestSpi, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String,java.security.Provider)>/$r10, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String,java.security.Provider)>/$r11
+  java.security.MessageDigestSpi, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String)>/$r10, <java.security.MessageDigest: java.security.MessageDigest getInstance(java.lang.String)>/$r11
+  java.security.PermissionCollection, java.security.ProtectionDomain.mergePermissions/$r15, java.security.ProtectionDomain.mergePermissions/r1
+  java.security.Permission, sun.security.provider.PolicyFile.getInstance/$r10, sun.security.provider.PolicyFile.getInstance/$r11
+  java.security.Permission, sun.security.provider.PolicyFile.getInstance/$r16, sun.security.provider.PolicyFile.getInstance/$r17
+  java.security.Permission, sun.security.provider.PolicyFile.getInstance/$r22, sun.security.provider.PolicyFile.getInstance/$r23
+  java.security.Permission, sun.security.provider.PolicyFile.getInstance/$r27, sun.security.provider.PolicyFile.getInstance/$r28
+  java.security.Permission, sun.security.provider.PolicyFile.getInstance/$r34, sun.security.provider.PolicyFile.getInstance/$r35
+  java.security.Permission, sun.security.provider.PolicyFile.getInstance/$r39, sun.security.provider.PolicyFile.getInstance/$r40
+  java.security.Policy, <java.security.Policy$2: java.security.Policy run()>/$r5, <java.security.Policy$2: java.security.Policy run()>/$r6
+  java.security.Policy, java.security.Policy.getPolicyNoCheck/$r13, java.security.Policy.getPolicyNoCheck/r3
+  java.security.Policy, java.security.Policy.getPolicyNoCheck/$r8, java.security.Policy.getPolicyNoCheck/$r9
+  java.security.Principal, sun.security.pkcs.PKCS7.populateCertIssuerNames/$r11, sun.security.pkcs.PKCS7.populateCertIssuerNames/r2
+  java.security.Principal, sun.security.x509.X509CertImpl.getIssuerDN/$r4, sun.security.x509.X509CertImpl.getIssuerDN/r1
+  java.security.Principal, sun.security.x509.X509CertImpl.getSubjectDN/$r4, sun.security.x509.X509CertImpl.getSubjectDN/r1
+  java.security.PrivateKey, java.security.Signature$Delegate.init/r2, java.security.Signature$Delegate.init/$r5
+  java.security.PrivateKey, java.security.Signature$Delegate.init/r2, java.security.Signature$Delegate.init/$r6
+  java.security.ProtectionDomain[], <java.security.AccessControlContext: void <init>(java.security.ProtectionDomain[])>/$r12, <java.security.AccessControlContext: void <init>(java.security.ProtectionDomain[])>/$r13
+  java.security.ProviderException, <sun.security.jca.ProviderConfig$3: java.security.Provider run()>/r40, <sun.security.jca.ProviderConfig$3: java.security.Provider run()>/$r48
+  java.security.Provider, <sun.security.jca.ProviderConfig$3: java.security.Provider run()>/r5, <sun.security.jca.ProviderConfig$3: java.security.Provider run()>/$r27
+  java.security.Provider, sun.security.jca.ProviderConfig.doLoadProvider/$r2, sun.security.jca.ProviderConfig.doLoadProvider/$r3
+  java.security.PublicKey, sun.security.x509.X509CertImpl.getPublicKey/$r4, sun.security.x509.X509CertImpl.getPublicKey/r1
+  java.security.UnresolvedPermissionCollection, java.security.Permissions.getUnresolvedPermissions/$r11, java.security.Permissions.getUnresolvedPermissions/r2
+  java.security.UnresolvedPermission, java.security.UnresolvedPermissionCollection.add/r1, java.security.UnresolvedPermissionCollection.add/r3
+  java.security.UnresolvedPermission, java.security.UnresolvedPermission.equals/r1, java.security.UnresolvedPermission.equals/r2
+  java.text.AttributedCharacterIterator$Attribute, <java.text.AttributedString: void <init>(java.text.AttributedCharacterIterator,int,int,java.text.AttributedCharacterIterator$Attribute[])>/$r17, <java.text.AttributedString: void <init>(java.text.AttributedCharacterIterator,int,int,java.text.AttributedCharacterIterator$Attribute[])>/r4
+  java.text.AttributedCharacterIterator[], java.text.MessageFormat.formatToCharacterIterator/$r12, java.text.MessageFormat.formatToCharacterIterator/$r13
+  java.text.AttributeEntry, java.text.AttributeEntry.equals/r1, java.text.AttributeEntry.equals/r2
+  java.text.BreakIterator, java.text.BreakIterator.createBreakInstance/$r11, java.text.BreakIterator.createBreakInstance/r5
+  java.text.DateFormat, java.text.DateFormat.get/$r18, java.text.DateFormat.get/r3
+  java.text.DateFormatSymbols, <java.text.DateFormatSymbols: java.text.DateFormatSymbols getInstance(java.util.Locale)>/$r5, <java.text.DateFormatSymbols: java.text.DateFormatSymbols getInstance(java.util.Locale)>/r3
+  java.text.DecimalFormatSymbols, <java.text.DecimalFormatSymbols: java.text.DecimalFormatSymbols getInstance(java.util.Locale)>/$r5, <java.text.DecimalFormatSymbols: java.text.DecimalFormatSymbols getInstance(java.util.Locale)>/r3
+  java.text.FieldPosition[], <java.text.DecimalFormat: java.text.FieldPosition[] expandAffix(java.lang.String)>/$r18, <java.text.DecimalFormat: java.text.FieldPosition[] expandAffix(java.lang.String)>/$r19
+  java.text.NumberFormat, <java.text.NumberFormat: java.text.NumberFormat getInstance(java.util.Locale,int)>/$r8, <java.text.NumberFormat: java.text.NumberFormat getInstance(java.util.Locale,int)>/r3
+  java.util.Date, <java.text.DateFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/r1, <java.text.DateFormat: java.lang.StringBuffer format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)>/$r4
+  java.util.Date, java.text.SimpleDateFormat.formatToCharacterIterator/r1, java.text.SimpleDateFormat.formatToCharacterIterator/$r6
+  java.util.Date, sun.security.pkcs.PKCS9Attribute.derEncode/$r25, sun.security.pkcs.PKCS9Attribute.derEncode/$r26
+  java.util.jar.Manifest, sun.misc.ExtensionDependency.checkExtensionAgainst/$r15, sun.misc.ExtensionDependency.checkExtensionAgainst/r5
+  java.util.Locale, java.util.Locale.equals/r1, java.util.Locale.equals/r2
+  java.util.logging.Handler[], java.util.logging.Logger.getHandlers/$r6, java.util.logging.Logger.getHandlers/$r7
+  java.util.logging.LogManager$LoggerWeakRef, java.util.logging.LogManager.drainLoggerRefQueueBounded/r1, java.util.logging.LogManager.drainLoggerRefQueueBounded/r2
+  java.util.Map$Entry, java.text.AttributedString.setAttributes/$r9, java.text.AttributedString.setAttributes/r5
+  java.util.Map$Entry, java.util.AbstractMap.containsKey/$r5, java.util.AbstractMap.containsKey/r3
+  java.util.Map$Entry, java.util.AbstractMap.containsKey/$r7, java.util.AbstractMap.containsKey/r8
+  java.util.Map$Entry, java.util.AbstractMap.equals/$r8, java.util.AbstractMap.equals/r4
+  java.util.Map$Entry, java.util.HashMap.putAllForCreate/$r5, java.util.HashMap.putAllForCreate/r3
+  java.util.Map$Entry, <java.util.TreeMap: java.util.TreeMap$Entry buildFromSorted(int,int,int,int,java.util.Iterator,java.io.ObjectInputStream,java.lang.Object)>/$r9, <java.util.TreeMap: java.util.TreeMap$Entry buildFromSorted(int,int,int,int,java.util.Iterator,java.io.ObjectInputStream,java.lang.Object)>/r5
+  java.util.Properties, sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/$r22, sun.util.calendar.LocalGregorianCalendar.getLocalGregorianCalendar/r23
+  java.util.PropertyPermission, java.util.PropertyPermissionCollection.add/$r16, java.util.PropertyPermissionCollection.add/r6
+  java.util.PropertyPermission, java.util.PropertyPermissionCollection.add/r1, java.util.PropertyPermissionCollection.add/r3
+  java.util.PropertyPermission, java.util.PropertyPermissionCollection.implies/$r11, java.util.PropertyPermissionCollection.implies/r4
+  java.util.PropertyPermission, java.util.PropertyPermissionCollection.implies/$r17, java.util.PropertyPermissionCollection.implies/r18
+  java.util.PropertyPermission, java.util.PropertyPermissionCollection.implies/r1, java.util.PropertyPermissionCollection.implies/r2
+  java.util.PropertyPermission, java.util.PropertyPermissionCollection.implies/$r26, java.util.PropertyPermissionCollection.implies/r27
+  java.util.PropertyPermission, java.util.PropertyPermission.equals/r1, java.util.PropertyPermission.equals/r2
+  java.util.PropertyPermission, java.util.PropertyPermission.implies/r1, java.util.PropertyPermission.implies/r2
+  java.util.regex.Pattern$Branch, java.util.regex.Pattern.expr/r2, java.util.regex.Pattern.expr/$r8
+  java.util.regex.Pattern$CharProperty, java.util.regex.Pattern.range/$r4, java.util.regex.Pattern.range/$r5
+  java.util.regex.Pattern$Curly, java.util.regex.Pattern.group0/r30, java.util.regex.Pattern.group0/r37
+  java.util.regex.Pattern$GroupHead, java.util.regex.Pattern.group0/r5, java.util.regex.Pattern.group0/$r46
+  java.util.regex.Pattern$GroupTail, java.util.regex.Pattern.group0/r6, java.util.regex.Pattern.group0/r2
+  java.util.regex.Pattern$GroupTail, java.util.regex.Pattern.group0/r6, java.util.regex.Pattern.group0/$r42
+  java.util.regex.Pattern$GroupTail, java.util.regex.Pattern.group0/r6, java.util.regex.Pattern.group0/$r43
+  java.util.regex.Pattern$Ques, java.util.regex.Pattern.group0/r30, java.util.regex.Pattern.group0/r31
+  java.util.regex.Pattern$Slice, java.util.regex.Pattern$BnM.optimize/r0, java.util.regex.Pattern$BnM.optimize/$r4
+  java.util.ResourceBundle$CacheKeyReference, java.util.ResourceBundle.findBundle/r7, java.util.ResourceBundle.findBundle/$r18
+  java.util.ResourceBundle, java.text.BreakIterator.getBundle/$r3, java.text.BreakIterator.getBundle/$r4
+  java.util.ResourceBundle, java.util.logging.Logger.findSystemResourceBundle/$r2, java.util.logging.Logger.findSystemResourceBundle/$r3
+  java.util.ResourceBundle, java.util.ResourceBundle$Control.newBundle/$r12, java.util.ResourceBundle$Control.newBundle/r6
+  java.util.ResourceBundle$RBClassLoader, java.util.ResourceBundle$RBClassLoader.<clinit>/$r1, java.util.ResourceBundle$RBClassLoader.<clinit>/$r2
+  java.util.ResourceBundle, <sun.security.util.ResourcesMgr: java.lang.String getString(java.lang.String)>/$r3, <sun.security.util.ResourcesMgr: java.lang.String getString(java.lang.String)>/$r4
+  java.util.ResourceBundle, sun.util.resources.LocaleData.getBundle/$r3, sun.util.resources.LocaleData.getBundle/$r4
+  java.util.spi.LocaleServiceProvider, sun.util.LocaleServiceProviderPool$1.run/$r5, sun.util.LocaleServiceProviderPool$1.run/r2
+  java.util.spi.LocaleServiceProvider, sun.util.LocaleServiceProviderPool.findProvider/$r14, sun.util.LocaleServiceProviderPool.findProvider/r3
+  java.util.spi.LocaleServiceProvider, sun.util.LocaleServiceProviderPool.getProviderLocales/$r9, sun.util.LocaleServiceProviderPool.getProviderLocales/r3
+  java.util.TreeMap$NavigableSubMap, java.util.TreeMap$KeySet.iterator/$r5, java.util.TreeMap$KeySet.iterator/$r6
+  java.util.WeakHashMap$Entry, java.util.WeakHashMap.expungeStaleEntries/r1, java.util.WeakHashMap.expungeStaleEntries/r3
+  javax.security.auth.x500.X500Principal, javax.security.auth.x500.X500Principal.equals/r1, javax.security.auth.x500.X500Principal.equals/r2
+  sun.misc.Cleaner, java.lang.ref.Reference$ReferenceHandler.run/r3, java.lang.ref.Reference$ReferenceHandler.run/$r13
+  sun.misc.NativeSignalHandler, sun.misc.Signal.handle/r1, sun.misc.Signal.handle/$r5
+  sun.misc.SoftCache$ValueCell, sun.misc.SoftCache.processQueue/$r3, sun.misc.SoftCache.processQueue/$r4
+  sun.misc.URLClassPath$JarLoader, <sun.misc.URLClassPath$JarLoader: sun.misc.Resource getResource(java.lang.String,boolean,java.util.Set)>/$r16, <sun.misc.URLClassPath$JarLoader: sun.misc.Resource getResource(java.lang.String,boolean,java.util.Set)>/$r17
+  sun.misc.URLClassPath$JarLoader, <sun.misc.URLClassPath$JarLoader: sun.misc.Resource getResource(java.lang.String,boolean,java.util.Set)>/$r19, <sun.misc.URLClassPath$JarLoader: sun.misc.Resource getResource(java.lang.String,boolean,java.util.Set)>/r6
+  sun.net.spi.nameservice.NameServiceDescriptor, <java.net.InetAddress$2: sun.net.spi.nameservice.NameService run()>/$r5, <java.net.InetAddress$2: sun.net.spi.nameservice.NameService run()>/r2
+  sun.net.spi.nameservice.NameService, java.net.InetAddress.createNSProvider/$r6, java.net.InetAddress.createNSProvider/r1
+  sun.nio.ByteBuffered, sun.misc.Resource.getByteBuffer/r1, sun.misc.Resource.getByteBuffer/$r2
+  sun.reflect.MagicAccessorImpl, sun.reflect.MethodAccessorGenerator.generate/$r76, sun.reflect.MethodAccessorGenerator.generate/$r77
+  sun.reflect.ReflectionFactory, java.io.ObjectStreamClass.<clinit>/$r3, java.io.ObjectStreamClass.<clinit>/$r4
+  sun.reflect.ReflectionFactory, java.lang.Class.getReflectionFactory/$r2, java.lang.Class.getReflectionFactory/$r3
+  sun.reflect.ReflectionFactory, java.lang.reflect.AccessibleObject.<clinit>/$r2, java.lang.reflect.AccessibleObject.<clinit>/$r3
+  sun.reflect.ReflectionFactory, java.lang.reflect.Modifier.<clinit>/$r2, java.lang.reflect.Modifier.<clinit>/r1
+  sun.security.jca.ProviderConfig[], sun.security.jca.ProviderList.getJarList/$r11, sun.security.jca.ProviderList.getJarList/r12
+  sun.security.jca.ProviderConfig[], <sun.security.jca.ProviderList: void <init>()>/$r22, <sun.security.jca.ProviderList: void <init>()>/$r23
+  sun.security.jca.ProviderList, sun.security.jca.ProviderList.fromSecurityProperties/$r1, sun.security.jca.ProviderList.fromSecurityProperties/$r2
+  sun.security.jca.ServiceId, sun.security.jca.ProviderList$ServiceList.tryGet/$r21, sun.security.jca.ProviderList$ServiceList.tryGet/r3
+  sun.security.provider.PolicyFile$SelfPermission, sun.security.provider.PolicyFile.addPerms/r4, sun.security.provider.PolicyFile.addPerms/$r14
+  sun.security.provider.PolicyFile$SelfPermission, sun.security.provider.PolicyFile$SelfPermission.equals/r1, sun.security.provider.PolicyFile$SelfPermission.equals/r2
+  sun.security.util.DerEncoder[], sun.security.pkcs.PKCS9Attribute.derEncode/$r28, sun.security.pkcs.PKCS9Attribute.derEncode/$r29
+  sun.security.util.DerEncoder, sun.security.pkcs.PKCS9Attributes.castToDerEncoder/$r2, sun.security.pkcs.PKCS9Attributes.castToDerEncoder/$r3
+  sun.security.util.ObjectIdentifier, sun.security.pkcs.PKCS9Attribute.derEncode/$r14, sun.security.pkcs.PKCS9Attribute.derEncode/$r15
+  sun.security.util.ObjectIdentifier, <sun.security.pkcs.SignerInfo: sun.security.pkcs.SignerInfo verify(sun.security.pkcs.PKCS7,byte[])>/$r16, <sun.security.pkcs.SignerInfo: sun.security.pkcs.SignerInfo verify(sun.security.pkcs.PKCS7,byte[])>/r6
+  sun.security.util.ObjectIdentifier, <sun.security.util.ObjectIdentifier: boolean equals(java.lang.Object)>/r1, <sun.security.util.ObjectIdentifier: boolean equals(java.lang.Object)>/r2
+  sun.security.x509.AlgorithmId, sun.security.x509.X509CertImpl.parse/$r36, sun.security.x509.X509CertImpl.parse/r3
+  sun.security.x509.AVA[], <sun.security.x509.RDN: void <init>(java.lang.String,java.util.Map)>/$r26, <sun.security.x509.RDN: void <init>(java.lang.String,java.util.Map)>/$r27
+  sun.security.x509.CertAttrSet, <sun.security.x509.CertificateExtensions: void encode(java.io.OutputStream,boolean)>/$r9, <sun.security.x509.CertificateExtensions: void encode(java.io.OutputStream,boolean)>/$r10
+  sun.security.x509.CertificateExtensions, sun.security.pkcs.PKCS9Attribute.derEncode/$r49, sun.security.pkcs.PKCS9Attribute.derEncode/r50
+  sun.security.x509.CertificateExtensions, sun.security.x509.X509CertImpl.hasUnsupportedCriticalExtension/$r4, sun.security.x509.X509CertImpl.hasUnsupportedCriticalExtension/r1
+  sun.security.x509.CertificateIssuerExtension, sun.security.x509.X509CRLEntryImpl.getCertificateIssuerExtension/$r2, sun.security.x509.X509CRLEntryImpl.getCertificateIssuerExtension/$r3
+  sun.security.x509.KeyUsageExtension, sun.security.x509.X509CertImpl.getKeyUsage/$r6, sun.security.x509.X509CertImpl.getKeyUsage/r3
+  sun.security.x509.RDN[], sun.security.x509.X500Name.parseDN/$r14, sun.security.x509.X500Name.parseDN/$r15
+  sun.security.x509.SerialNumber, sun.security.x509.X509CertImpl.getSerialNumberObject/$r4, sun.security.x509.X509CertImpl.getSerialNumberObject/r1
+  sun.security.x509.SubjectAlternativeNameExtension, sun.security.x509.X509CertInfo.verifyCert/$r7, sun.security.x509.X509CertInfo.verifyCert/r8
+  sun.security.x509.X500Name, sun.security.x509.X500Name.equals/r1, sun.security.x509.X500Name.equals/r2
+  sun.security.x509.X500Name, sun.security.x509.X509CertInfo.parse/$r13, sun.security.x509.X509CertInfo.parse/r4
+  sun.security.x509.X500Name, sun.security.x509.X509CertInfo.parse/$r18, sun.security.x509.X509CertInfo.parse/r5
+  sun.security.x509.X500Name, sun.security.x509.X509CertInfo.verifyCert/$r5, sun.security.x509.X509CertInfo.verifyCert/r3
+  sun.util.calendar.Gregorian$Date, <sun.util.calendar.Gregorian: sun.util.calendar.Gregorian$Date getCalendarDate(long,sun.util.calendar.CalendarDate)>/$r2, <sun.util.calendar.Gregorian: sun.util.calendar.Gregorian$Date getCalendarDate(long,sun.util.calendar.CalendarDate)>/$r3
+  sun.util.calendar.JulianCalendar, java.util.GregorianCalendar.getJulianCalendarSystem/$r1, java.util.GregorianCalendar.getJulianCalendarSystem/$r2
+  sun.util.calendar.LocalGregorianCalendar$Date, sun.util.calendar.LocalGregorianCalendar.getCalendarDateFromFixedDate/r1, sun.util.calendar.LocalGregorianCalendar.getCalendarDateFromFixedDate/r2
+  sun.util.calendar.LocalGregorianCalendar$Date, sun.util.calendar.LocalGregorianCalendar.normalize/r1, sun.util.calendar.LocalGregorianCalendar.normalize/r2
+  sun.util.calendar.LocalGregorianCalendar$Date, sun.util.calendar.LocalGregorianCalendar.normalizeYear/r1, sun.util.calendar.LocalGregorianCalendar.normalizeYear/r2
+  sun.util.calendar.LocalGregorianCalendar$Date, <sun.util.calendar.LocalGregorianCalendar: sun.util.calendar.LocalGregorianCalendar$Date getCalendarDate(long,sun.util.calendar.CalendarDate)>/$r3, <sun.util.calendar.LocalGregorianCalendar: sun.util.calendar.LocalGregorianCalendar$Date getCalendarDate(long,sun.util.calendar.CalendarDate)>/r2
+  sun.util.calendar.LocalGregorianCalendar, java.util.JapaneseImperialCalendar.<clinit>/$r7, java.util.JapaneseImperialCalendar.<clinit>/$r8
+  sun.util.resources.OpenListResourceBundle, sun.util.resources.LocaleData.getCurrencyNames/$r1, sun.util.resources.LocaleData.getCurrencyNames/$r2
+  sun.util.resources.OpenListResourceBundle, sun.util.resources.LocaleData.getTimeZoneNames/$r1, sun.util.resources.LocaleData.getTimeZoneNames/$r2

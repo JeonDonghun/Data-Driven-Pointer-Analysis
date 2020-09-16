@@ -1,0 +1,7 @@
+D3(?meth) -> MethodSignatureRef(?meth).
+
+
+D3(?meth)<-
+Feature27(?meth),
+MethodSignatureRef(?meth).
+

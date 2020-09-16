@@ -1,0 +1,5 @@
+option,delimiter,"	"
+option,hasColumnNames,false
+
+fromFile,"/home/minseokjeon/Downloads/Zipper/artifact/output-zipper/pmd-ZipperPrecisionCriticalMethod.facts",a,method
+toPredicate,ZipperContextSensitiveMethod,method

@@ -1,0 +1,5 @@
+option,delimiter,"\t"
+option,hasColumnNames,false
+
+fromFile,"/home/donghoon/Data-Driven-Doop/doop/jars/dacapo/antlr.dynamic",a,inv,b,type
+toPredicate,Config:DynamicClass,type,inv

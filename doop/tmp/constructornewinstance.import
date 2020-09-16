@@ -1,0 +1,5 @@
+option,delimiter,"	"
+option,hasColumnNames,false
+
+fromFile,"/home/minseokjeon/Downloads/Zipper/Data-Driven-Doop/doop/tmp/ConstructorNewInstance.log",a,invo,b,constructor
+toPredicate,ConstructorNewInstance:Log,invo,constructor

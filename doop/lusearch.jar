@@ -1,0 +1,38 @@
+running dacapo benchmark: lusearch
+Bloxbatch-Options: 
+Main-Class: dacapo.lusearch.Main
+Application-Classes: GcCallback:Harness:MMTkCallback:MMTkHarness:MyCallback:dacapo.**:org.**
+generating facts (jars/dacapo/lusearch.jar jars/dacapo/lusearch-deps.jar) in /home/minseokjeon/Downloads/Zipper/artifact/doop/cache/input-facts/jre1.6/ce2fb2c814839766f5a4ba235d70b23ba3250468c1550eb6b56da7777519957b/ ...
+elapsed time: 30.31s
+creating database in /home/minseokjeon/Downloads/Zipper/artifact/doop/cache/input-database/jre1.6/ce2fb2c814839766f5a4ba235d70b23ba3250468c1550eb6b56da7777519957b/ ...
+elapsed time: 0.49s
+loading fact declarations ...
+elapsed time: 0.94s
+loading facts ...
+elapsed time: 5.18s
+setting main class to dacapo.lusearch.Main
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 1.38s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 1.82s
+loading reflection delta rules ...
+elapsed time: 2.23s
+loading client delta rules ...
+elapsed time: 0.84s
+loading auxiliary delta rules ...
+elapsed time: 0.80s
+loading 3-object-sensitive+2-heap rules ...
+Pointer analysis START
+analysis time: 6305.96s
+Pointer analysis FINISH
+disk footprint (KB)                                                              8,703,181
+loading statistics (simple) ...
+elapsed time: 35.65s
+making database available at /home/minseokjeon/Downloads/Zipper/artifact/doop/results/3-object-sensitive+2-heap/jre1.6/lusearch.jar
+making database available at last-analysis
+#may-fail casts           283
+#poly calls               846
+#reach methods            6,903
+#call edges               31,796
+
+disk footprint (with stats) (KB)                                                 8,703,181
