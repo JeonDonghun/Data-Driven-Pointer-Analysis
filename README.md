@@ -43,7 +43,7 @@ For example, to analyze `foo.jar` with our pointer analysis, type:
 
 ### Donghoon이 만든 스크립트 돌리는법
 
-당신의 directory를 Data-Driven-Pointer-Analysis/Facts 로 옴길것
+당신의 directory를 'Facts/' 로 옴길것
 
 run.py python파일을 실행시킬것 (python run.py)
 
