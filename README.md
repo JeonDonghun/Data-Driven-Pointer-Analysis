@@ -39,3 +39,14 @@ For example, to analyze `foo.jar` with our pointer analysis, type:
 
 '$ ./run -jre1.6 3-object-sensitive+2-heap+Data foo.jar' 
 
+
+
+### Donghoon이 만든 스크립트 돌리는법
+
+당신의 directory를 Data-Driven-Pointer-Analysis/Facts 로 옴길것
+
+run.py python파일을 실행시킬것 (python run.py)
+
+학습된 heuristic이 heuristic.logic 에 생성됨
+
+
