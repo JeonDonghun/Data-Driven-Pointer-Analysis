@@ -47,6 +47,6 @@ For example, to analyze `foo.jar` with our pointer analysis, type:
 
 run.py python파일을 실행시킬것 (python run.py)
 
-학습된 heuristic이 heuristic.logic 에 생성됨
+학습된 heuristic이 heuristic.logic 에 생성됨 (학습시간은 40시간정도입니다)
 
 
